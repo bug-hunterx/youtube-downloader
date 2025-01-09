@@ -1,12 +1,5 @@
-# your_lambda_module/lambda_function.py
-
-import os
-import math
 from yt_dlp import YoutubeDL
 import platform
-
-CHUNK_SIZE_DEFAULT = 50 * 1024 * 1024  # 50 MB
-
 
 def download_video_yt_dlp(url, output_dir):
     """
