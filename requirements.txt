@@ -1,0 +1,9 @@
+pip~=21.3.1
+wheel~=0.37.1
+pytest~=8.3.4
+pluggy~=1.5.0
+exceptiongroup~=1.2.2
+iniconfig~=2.0.0
+packaging~=24.2
+setuptools~=60.2.0
+telegram~=0.0.1
